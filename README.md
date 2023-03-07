@@ -1,6 +1,6 @@
 # Martin Rodriguez
 
-I'm electronic engineer M.Sc. in Renewable energy, especialized in Telecommunications currently switching my professional profile from Radio Telecommunications to Cloud IT infrastructure and Software programming. My background in programing cover ***Python*** and ***Java***.
+I'm electronic engineer M.Sc. in Renewable energy, especialized in Telecommunications currently switching my professional profile from Radio Telecommunications to Cloud  infrastructure and Software. My programing background covers ***Python*** and ***Java***.
 
 ## Most used Commands
 
@@ -16,27 +16,50 @@ List of tasks for the first exercise.
 |ls|Lista los archivos contenidos en la posision actual|
 |history|Muestra un listado historico de los comandos utilizados|
 |!n|Ejecuta el comando referenciado(n)|
-|echo|Permite crear contenido y alamcenarlo dentro de un archivo|
-|cat|Muestra el contenido del archivo especificado|
+|echo texto > filename|Permite crear contenido y alamcenarlo dentro de un archivo|
+|cat filename|Muestra el contenido del archivo especificado|
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Undefined Academy
 
-[GitHub](https://github.com/M4rtR0d)
+![undefined shell](https://user-images.githubusercontent.com/62573083/223426460-733386e2-e59e-44ef-9dfb-6451757b59c7.png)
 
-1. France
-   * Tartar
-   - Gambas
+***
+My [GitHub](https://github.com/M4rtR0d)
+***
 
-2. Brasil
-   * Rodizio
+1. Python
+   * Django
+   - Pandas
+   - Numpy
+   - Seaborn
 
-3. Israel
-   * Hummus
+2. Java
+   
+3. Anaconda
+   * Jupyter Notebook
+   * JupyterLab
+   * Spyder
 
+4. AZURE
+   > AZ-900 Certified
+   >
+   > DP-900 Certified
+   >
+   > AI-900 Certified
+   >
+   > SC-900 Certified
+   
+**Coding...**
+```
+mylist = [x ** 0.5 for x in range(10) if x % 2 != 0]
+print(mylist)
+```
+   
+  
 👀 **Advertencias**
   - Este texto es solo una prueba
-  - Estoy en proceso de aprendizaje continuo
-  - Mi estado de salud es muy regular pero avanzo manteniendome animado
+  - Estoy en un proceso de aprendizaje continuo
+  - Esta es una practica de refuerzo durante el bootcamp de Guillermo Rodas-Javascript
 
 🌟*Algunas **aclaraciones** son convenientes*
 
