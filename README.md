@@ -2,6 +2,10 @@
 
 I'm electronic engineer M.Sc. in Renewable energy, especialized in Telecommunications currently switching my professional profile from Radio Telecommunications to Cloud  infrastructure and Software. My programing background covers ***Python*** and ***Java***.
 
+***
+My [GitHub](https://github.com/M4rtR0d)
+***
+
 ## Most used Commands
 
 ```
@@ -23,13 +27,7 @@ List of tasks for the first exercise.
 |echo texto > filename|Permite crear contenido y alamcenarlo dentro de un archivo|
 |cat filename|Muestra el contenido del archivo especificado|
 
-Undefined Academy
-
-![undefined shell](https://user-images.githubusercontent.com/62573083/223426460-733386e2-e59e-44ef-9dfb-6451757b59c7.png)
-
-***
-My [GitHub](https://github.com/M4rtR0d)
-***
+Lo que conozco: 
 
 1. Python
    * Django
@@ -58,7 +56,10 @@ My [GitHub](https://github.com/M4rtR0d)
 mylist = [x ** 0.5 for x in range(10) if x % 2 != 0]
 print(mylist)
 ```
-   
+Undefined Academy
+
+![undefined shell](https://user-images.githubusercontent.com/62573083/223426460-733386e2-e59e-44ef-9dfb-6451757b59c7.png)
+ 
   
 👀 **Advertencias**
   - Este texto es solo una prueba
