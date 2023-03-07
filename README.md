@@ -4,6 +4,10 @@ I'm electronic engineer M.Sc. in Renewable energy, especialized in Telecommunica
 
 ## Most used Commands
 
+```
+alias mostused='history | awk '\''{print $2}''\' | sort | uniq -c | sort -nr | head -n 10'
+```
+
 ### Tracking task lists
 
 List of tasks for the first exercise.
