@@ -33,6 +33,7 @@ Lo que conozco:
    * Django
    - Pandas
    - Numpy
+   - Matplotlib
    - Seaborn
 
 2. Java
